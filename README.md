@@ -8,13 +8,7 @@
 </h3>
 
  
-Desde: 01/11/2021 
-
-
-
-<div align="center" style="margin: 40px 0; width: 100px">
-    ![visitors](https://visitor-badge.glitch.me/badge?page_id=camila-github&left_color=green&right_color=blueviolet)
-</div>
+<h1>Desde: 01/11/2021 ![visitors](https://visitor-badge.glitch.me/badge?page_id=camila-github&left_color=green&right_color=blueviolet)
 
 
  
