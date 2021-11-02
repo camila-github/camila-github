@@ -1,9 +1,11 @@
  
- <h3>Hi there, Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+<h3>
+ Hi there, Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
  
- Obrigada pela visita e volte sempre !! </h3>
+ Obrigada pela visita e volte sempre !! 
  
-## 😄 
+ 😄 
+</h3>
  
 Desde: 01/11/2021 
 
