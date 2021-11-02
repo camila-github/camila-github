@@ -8,8 +8,7 @@
 
 <div style="margin: 40px 0">
     Desde: 01/11/2021 
-    <a href="https://visitor-badge.glitch.me/badge?page_id=camila-github&left_color=green&right_color=#210B61">
-    </a>
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=camila-github&left_color=green&right_color=#210B61)
 </div>
  
  
