@@ -6,7 +6,7 @@
  <h1>
  😄 
  
-![](https://visitor-badge.glitch.me/badge?page_id=camila-github&left_color=gray&right_color=blueviolet&left_text=Desde:01/11/2021-Visitors)
+![](https://visitor-badge.glitch.me/badge?page_id=camila-github&left_color=gray&right_color=blueviolet&left_text=Visitors)
   
  </h1>
  
