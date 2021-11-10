@@ -2,7 +2,7 @@
 <h3>
  Olá, Obrigada pela visita e volte sempre !!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> 
  
- Quer saber mais sobre mim ??, [clique aqui](https://camila-github.github.io/portfolio-camila/), para acessar meu portfólio.
+ Quer saber mais sobre mim ??, [clique aqui](https://github.com/camila-github/portfolio-camila), para acessar meu portfólio.
 
  <h3>
  
