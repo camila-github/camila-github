@@ -9,7 +9,9 @@
  😄 
  
  
-[![](https://visitor-badge.glitch.me/badge?page_id=camila-github&left_color=gray&right_color=blueviolet&left_text=Visitors)(#)![Link](https://github.com/camila-github/portfolio-camila?label=Portfolio&message=CSS3&color=285f65&style=plastic&logo=Link)] 
+![](https://visitor-badge.glitch.me/badge?page_id=camila-github&left_color=gray&right_color=blueviolet&left_text=Visitors)
+  
+![Link](https://github.com/camila-github/portfolio-camila?label=Portfolio&message=CSS3&color=285f65&style=plastic&logo=Link)
   
  </h1>
  
