@@ -10,10 +10,11 @@
  
  
 ![](https://visitor-badge.glitch.me/badge?page_id=camila-github&left_color=gray&right_color=blueviolet&left_text=Visitors)
-  
-[portfolio-link](https://github.com/camila-github/portfolio-camila?&color=285f65&style=plastic)
-  
+ 
  </h1>
+  
+  [portfolio-link](https://github.com/camila-github/portfolio-camila)
+  
  
  
 
