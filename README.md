@@ -8,9 +8,6 @@
  <h1>
  😄 
  
- 
-![](https://visitor-badge.glitch.me/badge?page_id=camila-github&left_color=gray&right_color=blueviolet&left_text=Visitors)
- 
  </h1>
   
  [portfolio-camila-link](https://github.com/camila-github/portfolio-camila)
